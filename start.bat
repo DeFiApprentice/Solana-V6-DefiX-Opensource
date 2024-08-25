@@ -1,0 +1,1 @@
+@echo Verifying dependencies.. & npm install --no-fund --no-audit & Cls & node buy.js
